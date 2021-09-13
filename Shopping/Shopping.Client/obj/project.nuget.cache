@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FJQwa9wU2zT/9vJJ3tjitJoppEkNOy5X9kiswcqPCbJ6c/dOAHNCAl6TG7v7uK2hnrWlGHIIKFGu62fuZv8ew==",
+  "success": true,
+  "projectFilePath": "c:\\Sridhar\\Learning\\Azure\\Micro Services\\Github Source\\shoppingapp\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sridh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\sridh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
